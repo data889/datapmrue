@@ -1,0 +1,6 @@
+﻿Specification,Coef(ΔPolicy_std),SE,t,p,N,R²,City FE,Year FE,Province×Year FE
+Baseline,0.125,0.039,3.24,0.0012,2240,0.82,Yes,Yes,No
++ City trends,0.117,0.043,2.72,0.0065,2240,0.827,Yes,Yes,No
++ Controls,0.12,0.042,2.88,0.004,2240,0.831,Yes,Yes,No
++ Province×Year FE,0.119,0.039,3.05,0.0023,2240,0.838,Yes,Yes,Yes
++ Clustered SE,0.111,0.042,2.64,0.0083,2240,0.84,Yes,Yes,Yes

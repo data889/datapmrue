@@ -1,0 +1,4 @@
+﻿Statistic,Estimate,SE,p
+Average partial effect at mean,0.11,0.038,0.004
+Slope at low (−1 SD),0.083,0.038,0.03
+Slope at high (+1 SD),0.151,0.046,0.001
